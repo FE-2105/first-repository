@@ -1,0 +1,10 @@
+git config --global user.name "name1" - Для всех репозиториев по умолчанию имя name1
+git config --global user.email "email1" - Для всех репозиториев по умолчанию емэйл email1
+
+git init - Инициализация
+git add *file* / git add . - Добавить файлы
+git status - текущий статус файла
+git commit -m "msg" - Создать коммит с комментарием msg
+git push - отправить 
+git fetch - проверить изменения на сервере
+git pull - взять изменения ветки
